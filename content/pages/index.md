@@ -37,6 +37,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: center
+        textDecoration: underline
       subtitle:
         textAlign: left
       text:
